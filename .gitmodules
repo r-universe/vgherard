@@ -7,13 +7,13 @@
 	path = sbo
 	url = https://github.com/vgherard/sbo
 	shallow = true
-	branch = *release
+	branch = v0.5.0
 	registered = true
 [submodule "kgrams"]
 	path = kgrams
 	url = https://github.com/vgherard/kgrams
 	shallow = true
-	branch = *release
+	branch = v0.1.0
 	registered = true
 [submodule "fcci"]
 	path = fcci
