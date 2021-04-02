@@ -18,7 +18,7 @@
 	path = fcci
 	url = https://github.com/vgherard/fcci
 	shallow = true
-	branch = v1.0.1
+	branch = v1.0.0
 	registered = true
 [submodule "gsample"]
 	path = gsample
