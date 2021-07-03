@@ -1,0 +1,10 @@
+[
+  {
+    "package": "fcci",
+    "oncran": true
+  },
+  {
+    "package": "sbo",
+    "oncran": true
+  }
+]
