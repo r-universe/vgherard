@@ -1,10 +1,23 @@
 [
   {
+    "package": "sbo",
+    "oncran": true
+  },
+  {
+    "package": "kgrams",
+    "oncran": false
+  },
+  {
     "package": "fcci",
     "oncran": true
   },
   {
-    "package": "sbo",
-    "oncran": true
+    "package": "gsample"
+  },
+  {
+    "package": "r2r"
+  },
+  {
+    "package": "scribblr"
   }
 ]

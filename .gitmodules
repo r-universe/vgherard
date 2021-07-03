@@ -1,15 +1,38 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/vgherard/universe
 	shallow = true
 	branch = HEAD
+[submodule "sbo"]
+	path = sbo
+	url = https://github.com/vgherard/sbo
+	shallow = true
+	branch = *release
+	registered = true
+[submodule "kgrams"]
+	path = kgrams
+	url = https://github.com/vgherard/kgrams
+	shallow = true
+	branch = *release
+	registered = true
 [submodule "fcci"]
 	path = fcci
 	url = https://github.com/vgherard/fcci
 	shallow = true
+	branch = *release
 	registered = true
-[submodule "sbo"]
-	path = sbo
-	url = https://github.com/vgherard/sbo
+[submodule "gsample"]
+	path = gsample
+	url = https://github.com/vgherard/gsample
+	shallow = true
+	registered = true
+[submodule "r2r"]
+	path = r2r
+	url = https://github.com/vgherard/r2r
+	shallow = true
+	registered = true
+[submodule "scribblr"]
+	path = scribblr
+	url = https://github.com/vgherard/scribblr
 	shallow = true
 	registered = true
