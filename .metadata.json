@@ -16,7 +16,7 @@
   },
   {
     "package": "r2r",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "scribblr"
