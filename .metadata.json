@@ -15,7 +15,8 @@
     "package": "gsample"
   },
   {
-    "package": "r2r"
+    "package": "r2r",
+    "oncran": false
   },
   {
     "package": "scribblr"
