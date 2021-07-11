@@ -36,3 +36,9 @@
 	url = https://github.com/vgherard/scribblr
 	shallow = true
 	registered = true
+[submodule "keys"]
+	path = keys
+	url = https://github.com/vgherard/keys
+	shallow = true
+	branch = global-bind
+	registered = false
