@@ -20,5 +20,8 @@
   },
   {
     "package": "scribblr"
+  },
+  {
+    "package": "runiv"
   }
 ]
