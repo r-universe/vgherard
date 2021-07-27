@@ -13,7 +13,6 @@
 	path = kgrams
 	url = https://github.com/vgherard/kgrams
 	shallow = true
-	branch = v0.1.0
 	registered = true
 [submodule "fcci"]
 	path = fcci
