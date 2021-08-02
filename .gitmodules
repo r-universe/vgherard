@@ -36,8 +36,8 @@
 	url = https://github.com/vgherard/scribblr
 	shallow = true
 	registered = true
-[submodule "runiv"]
-	path = runiv
-	url = https://github.com/vgherard/runiv
+[submodule "runi"]
+	path = runi
+	url = https://github.com/vgherard/runi
 	shallow = true
 	registered = true
