@@ -5,7 +5,7 @@
   },
   {
     "package": "kgrams",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "fcci",
