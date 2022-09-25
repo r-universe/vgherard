@@ -1,7 +1,8 @@
 [
   {
     "package": "sbo",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
     "package": "kgrams",
@@ -9,14 +10,16 @@
   },
   {
     "package": "fcci",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
     "package": "gsample"
   },
   {
     "package": "r2r",
-    "oncran": true
+    "oncran": true,
+    "releasetag": true
   },
   {
     "package": "scribblr"
