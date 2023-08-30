@@ -1,43 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/vgherard/universe
-	shallow = true
 	branch = HEAD
-[submodule "sbo"]
-	path = sbo
-	url = https://github.com/vgherard/sbo
-	shallow = true
-	branch = v0.5.0
-	registered = true
-[submodule "kgrams"]
-	path = kgrams
-	url = https://github.com/vgherard/kgrams
-	shallow = true
-	registered = true
 [submodule "fcci"]
 	path = fcci
 	url = https://github.com/vgherard/fcci
-	shallow = true
 	branch = v1.0.1
-	registered = true
 [submodule "gsample"]
 	path = gsample
 	url = https://github.com/vgherard/gsample
-	shallow = true
-	registered = true
+[submodule "kgrams"]
+	path = kgrams
+	url = https://github.com/vgherard/kgrams
 [submodule "r2r"]
 	path = r2r
 	url = https://github.com/vgherard/r2r
-	shallow = true
 	branch = v0.1.1
-	registered = true
-[submodule "scribblr"]
-	path = scribblr
-	url = https://github.com/vgherard/scribblr
-	shallow = true
-	registered = true
 [submodule "runi"]
 	path = runi
 	url = https://github.com/vgherard/runi
-	shallow = true
-	registered = true
+[submodule "sbo"]
+	path = sbo
+	url = https://github.com/vgherard/sbo
+	branch = v0.5.0
+[submodule "scribblr"]
+	path = scribblr
+	url = https://github.com/vgherard/scribblr
