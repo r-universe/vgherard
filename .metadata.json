@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "kgrams",
+    "releasetag": true
+  },
+  {
     "package": "fcci",
     "releasetag": true
   },
