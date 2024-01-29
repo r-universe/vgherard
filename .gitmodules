@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vgherard/universe
+	url = https://github.com/vgherard/vgherard.r-universe.dev
 	branch = HEAD
 [submodule "fcci"]
 	path = fcci
@@ -17,9 +17,6 @@
 	path = r2r
 	url = https://github.com/vgherard/r2r
 	branch = v0.1.1
-[submodule "runi"]
-	path = runi
-	url = https://github.com/vgherard/runi
 [submodule "sbo"]
 	path = sbo
 	url = https://github.com/vgherard/sbo
