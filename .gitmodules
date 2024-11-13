@@ -12,7 +12,7 @@
 [submodule "kgrams"]
 	path = kgrams
 	url = https://github.com/vgherard/kgrams
-	branch = v0.2.0
+	branch = v0.2.1
 [submodule "r2r"]
 	path = r2r
 	url = https://github.com/vgherard/r2r
