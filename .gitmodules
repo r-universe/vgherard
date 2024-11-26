@@ -6,9 +6,6 @@
 	path = fcci
 	url = https://github.com/vgherard/fcci
 	branch = v1.0.1
-[submodule "gsample"]
-	path = gsample
-	url = https://github.com/vgherard/gsample
 [submodule "kgrams"]
 	path = kgrams
 	url = https://github.com/vgherard/kgrams
