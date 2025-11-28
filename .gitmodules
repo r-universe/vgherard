@@ -5,7 +5,7 @@
 [submodule "fcci"]
 	path = fcci
 	url = https://github.com/vgherard/fcci
-	branch = v1.0.1
+	branch = v1.0.2
 [submodule "kgrams"]
 	path = kgrams
 	url = https://github.com/vgherard/kgrams
